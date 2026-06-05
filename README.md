@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to my profile!</h1>
+<p align="center"> Hello! My name is Marc, I like coding and learning about new technologies, see some of my work!</p>
 
-###
+
+<h2 align="center">Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -32,28 +34,16 @@
 
 <h2 align="center">Portfolio</h2>
 
-###
-
-<br clear="both">
 
 <p align="center">https://marcborrell.vercel.app/</p>
 
 ###
 
+<h2 align="center">Stats</h2>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Marc-Borrell/Marc-Borrell/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Marc-Borrell/Marc-Borrell/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Marc-Borrell/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Marc-Borrell/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Marc-Borrell/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Marc-Borrell/1" alt="Medium post 2"  />
-  </a>
 </div>
 
 ###
@@ -71,10 +61,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/marc-borrell-soler" target="_blank">
+  <a href="https://www.linkedin.com/in/marc-borrell-soler" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="marcboso2005@gmail.com" target="_blank">
+  <a href="mailto:marcboso2005@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Marc_Borrell" target="_blank">
