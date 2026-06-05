@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile!</h1>
-<p align="center"> Hello! My name is Marc, I like coding and learning about new technologies, see some of my work!</p>
+<p align="center"> Hi! I'm Marc. I enjoy coding and learning about emerging technologies. Feel free to explore some of my projects below.</p>
 
 
 <h2 align="center">Stack</h2>
