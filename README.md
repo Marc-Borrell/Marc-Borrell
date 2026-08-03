@@ -42,7 +42,7 @@
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Marc-Borrell/Marc-Borrell/stats-output/stats.svg" height="150" alt="stats graph"  />
+  
   <img src="https://raw.githubusercontent.com/Marc-Borrell/Marc-Borrell/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
